@@ -40,3 +40,5 @@ To list all subreddit subscriptions run
 
 # Help
 If you encounter any problems feel free to open an issue or reach out to me(`toπ#3141`) via discord [here](https://discord.gg/RKM92xXu4Y) 
+
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
